@@ -23,4 +23,4 @@ for i in range(min(5, len(postings))):
     print("Est. Value Notes:", est_value_notes)
     print("Description:", description)
     print("Closing Date:", closing_date)
-    print("---------------------------")
+    print("-----")
